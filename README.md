@@ -6,3 +6,5 @@
 
 ## [2. แนวทางการทำงานกับ branch](./Lab_Sheet_1.md) 
 
+## [3. ทำงานกับ branch บน Visual stidio code](./Lab_Sheet_2.md) 
+
